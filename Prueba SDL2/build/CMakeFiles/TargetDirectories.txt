@@ -1,0 +1,6 @@
+C:/Users/Alumno/Desktop/PROJECTS/Prueba SDL2/build/CMakeFiles/SDL2-static.dir
+C:/Users/Alumno/Desktop/PROJECTS/Prueba SDL2/build/CMakeFiles/SDL2main.dir
+C:/Users/Alumno/Desktop/PROJECTS/Prueba SDL2/build/CMakeFiles/uninstall.dir
+C:/Users/Alumno/Desktop/PROJECTS/Prueba SDL2/build/CMakeFiles/INSTALL.dir
+C:/Users/Alumno/Desktop/PROJECTS/Prueba SDL2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Alumno/Desktop/PROJECTS/Prueba SDL2/build/CMakeFiles/ZERO_CHECK.dir

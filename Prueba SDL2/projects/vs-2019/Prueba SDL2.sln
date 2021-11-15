@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prueba SDL2", "Prueba SDL2.vcxproj", "{0DC71F18-3515-4C4C-9F8C-A9B314673FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DC71F18-3515-4C4C-9F8C-A9B314673FAB}.Debug|x64.ActiveCfg = Debug|x64
+		{0DC71F18-3515-4C4C-9F8C-A9B314673FAB}.Debug|x64.Build.0 = Debug|x64
+		{0DC71F18-3515-4C4C-9F8C-A9B314673FAB}.Release|x64.ActiveCfg = Release|x64
+		{0DC71F18-3515-4C4C-9F8C-A9B314673FAB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90B16588-D9C6-4D33-AA15-F12AB443AE4B}
+	EndGlobalSection
+EndGlobal
